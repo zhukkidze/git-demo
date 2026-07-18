@@ -1,6 +1,6 @@
-line 1
-<<<<<<< HEAD
-main change
-=======
-line 2
->>>>>>> feature
+Mama took this badge off of me
+I can't use it anymore
+It's gettin' dark, too dark to see.
+
+Bob Dylan
+"Knockin' On Heaven's Door"
