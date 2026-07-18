@@ -1,3 +1,7 @@
 line 1
 line 2
+<<<<<<< HEAD
 main version of line 3
+=======
+feature version of line 3
+>>>>>>> feature
